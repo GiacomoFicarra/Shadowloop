@@ -21,8 +21,8 @@ It was developed during the online course in DBGA, in a team of three programmer
 - Engine: Unreal Engine 5
 
 I developed:
-- the core mechanic of object interaction (pick up objects, carry them and rotate them)
-- input prompt (grab, release and rotation mode)
-- game over logic (after too much actions *something* can happen)
+- The core mechanic of object interaction (pick up objects, carry them and rotate them)
+- Input prompt (grab, release and rotation mode)
+- Game over logic (after too much actions *something* can happen)
 
 I also helped with the Enemy AI and polish/bug fixing
