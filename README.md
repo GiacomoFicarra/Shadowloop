@@ -10,11 +10,11 @@ A warm hope start spreading when you find a door to exit the place…*
 *Shadows, but the keys to break free poses the greatest threat*
 *Something lurks in the shadows, something that might be scarier than staying here forever.*
 
+[![Watch the video](Images/VideoImage.png)](https://www.youtube.com/watch?v=PIK_5GbT-zk)
 
 ### Shadowloop is a firt-person horror puzzle game, the player is stuck in a loop and must find the right objects, place them in the correct places and find the correct rotation to solve puzzles and progress in the game.
 
 It was developed during the online course in DBGA, in a team of three programmers and five game designers, simulating a real studio workflow with constraints and tight deadlines.
-
 
 - My Role: Game Programmer
 - Tools: C++, Blueprint
@@ -26,3 +26,7 @@ I developed:
 - Game over logic (after too much actions *something* can happen)
 
 I also helped with the Enemy AI and polish/bug fixing
+
+![Object Interaction](Images/ShadowLoopObjectInteraction.gif)  ![Game Over](Images/ShadowLoopGameOver.gif)
+
+**_I can't share the complete project or source code for now, so i uploaded only my main contributions in this repository_**
