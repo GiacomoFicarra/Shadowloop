@@ -12,6 +12,8 @@ A warm hope start spreading when you find a door to exit the place…*
 
 [![Watch the video](Images/VideoImage.png)](https://www.youtube.com/watch?v=PIK_5GbT-zk)
 
+*(Click on the image to open the video!)*
+
 ### Shadowloop is a firt-person horror puzzle game, the player is stuck in a loop and must find the right objects, place them in the correct places and find the correct rotation to solve puzzles and progress in the game.
 
 It was developed during the online course in DBGA, in a team of three programmers and five game designers, simulating a real studio workflow with constraints and tight deadlines.
